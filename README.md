@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning flutter and dart.
 - 🤔 Hoping to learn C++ later (very interested).
 - 😎 Already knows Python.
-- 💞️ I’m looking to collaborate on open-source prjects (now).
-- 📫 How to reach me ... Want to remain ananonymous for now 😋
+- 💞️ I’m looking to collaborate on open-source projects (now).
+- 📫 How to reach me ... Want to remain anonymous for now 😋
 
 <!---
 SmartyGrasshopper/SmartyGrasshopper is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
