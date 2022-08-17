@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SmartyGrasshopper
 - 👀 I’m interested in Physics and computers (softwares).
-- 🌱 I’m currently learning Javascript (and few related things like neutralenoJS, HTML, CSS).
+- 🌱 I’m currently learning Javascript (and few related things like neutralinoJS, HTML, CSS).
 - 🤔 Hoping to learn C++/Rust sometime later.
 - 😎 Already knows Python.
 - 🐦️ Hoping to learn Flutter and Dart after sometime for android/ios apps.
