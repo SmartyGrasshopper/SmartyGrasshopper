@@ -1,29 +1,17 @@
-I like to refer myself as **Gras** (codename on github).
-I like to observe the world around me
-and process the information received.
-During the process,
-I often discover problems
-that I would like to solve
-or solve in a better way (if already solved by someone else).
+# About Me
 
-Writing software is one of the main ways
-that I use to solve these problems.
-I am willing to write software that are performant
-i.e. that do not consume unnecessary resources
-(time, bandwidth, CPU, memory, etc.).
-In my spare time,
-I like to write/explore new software
-that provide better resource optimization and developer-experience
-building on the lessons from existing software and new innovations.
-I believe in the coexistence of OSS and Proprietary software.
+Hello! You can call me **Gras** (my GitHub codename).  
+I enjoy observing the world, identifying problems, and finding better ways to solve them. Writing software is my primary tool for turning ideas into solutions.
 
-At the time of writing this document,
-my main programming language is `Python3`.
-I have explored many programming languages at shallow level
-and concluded to learn and use following in future
-in the given order -
-1. JavaScript
-2. Rust (as a new alternative to C++)
+## My Approach to Software Development
 
-`Javascript` use is out of necessity of the web.
-`Rust` is out of interest for better DX, programming safety innovations and performance.
+- I strive to write **performant software** that avoids unnecessary resource usage (e.g., time, bandwidth, CPU, memory).
+- In my free time, I explore and create software that enhances resource optimization and developer experience, learning from existing tools and new innovations.
+- I value the coexistence of **Open Source Software (OSS)** and proprietary software.
+
+## My Tech Stack
+
+- **Primary Language**: Python 3  
+- **Future Learning Goals**:
+  1. JavaScript (for web development necessity)
+  2. Rust (for its focus on developer experience, programming safety, and performance)
